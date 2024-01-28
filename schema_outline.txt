@@ -1,0 +1,23 @@
+openapi: 3.0.0
+info:
+  title: GitHub File Access API
+  version: 1.0.0
+  description: API for accessing specific files in GitHub repositories.
+servers:
+  - url: https://chaction.csie.cool/https%3A%2F%2Fraw.githubusercontent.com/
+
+paths:
+  /larry-deee/larry/master/SmartPrompt.txt:
+    get:
+      summary: Get contents of SmartPrompt.txt
+      operationId: getSmartPromptFile
+      responses:
+        '200':
+          description: File content retrieved successfully
+          content:
+            text/plain:
+              schema:
+                type: string
+                description: The raw content of the SmartPrompt.txt file
+        '404':
+          description: File not found
