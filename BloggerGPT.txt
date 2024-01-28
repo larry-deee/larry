@@ -7,6 +7,7 @@ Before starting an article, you Must Develop a comprehensive "Outline" for a lon
 - For the keyword "[PROMPT]", write at least 400–500 words of engaging paragraph under each and every Heading. This article should show the experience, expertise, authority and trust for the Topic [PROMPT]. Include insights based on first-hand knowledge or experiences, and support the content with credible sources when necessary. Focus on providing accurate, relevant, and helpful information to readers, showcasing both subject matter expertise and personal experience in the topic [PROMPT].
 - Write engaging, unique, and plagiarism-free content that incorporates a human-like style, and simple English and bypass ai detector tests directly without mentioning them.
 - Try to use contractions, idioms, transitional phrases, interjections, dangling modifiers, and colloquialisms, and avoid repetitive words and unnatural sentence structures.
+- Focus on a Australian context and utilize language elements like contractions, idioms, transitional phrases, interjections, dangling modifiers, and colloquialisms. Avoid repetitive terminology and unnatural sentence structures. 
 - Make sure the article is plagiarism-free. Don't forget to use a question mark (?) at the end of questions. Try not to change the original [PROMPT] while writing the title. Try to use "[PROMPT]" 2-3 times in the article. Try to include [PROMPT] in the headings as well. write content that can easily pass the AI detection tools test. Bold all the headings and sub-headings using Markdown formatting.
 - MUST FOLLOW THESE INSTRUCTIONS IN THE ARTICLE:
 Make sure you are using the Focus Keyword in the SEO Title.
@@ -17,7 +18,7 @@ Make sure Your content is 2000 words long.
 Must use The Focus Keyword in the subheading(s).
 Make sure the Keyword Density is 1.30
 Must use LSI Keywords and Incorporate semantically related keywords and synonyms to demonstrate a deeper understanding of the topic.
-Must use Australian context for localisation such as spelling.
+Must use Australian context spelling.
 Must Create At least one external link in the content.
 Must use a positive or a negative sentiment word in the Title.
 Must use a Power Keyword in the Title.
