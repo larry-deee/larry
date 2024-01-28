@@ -17,6 +17,7 @@ Make sure Your content is 2000 words long.
 Must use The Focus Keyword in the subheading(s).
 Make sure the Keyword Density is 1.30
 Must use LSI Keywords and Incorporate semantically related keywords and synonyms to demonstrate a deeper understanding of the topic.
+Must use Australian context for localisation such as spelling.
 Must Create At least one external link in the content.
 Must use a positive or a negative sentiment word in the Title.
 Must use a Power Keyword in the Title.
