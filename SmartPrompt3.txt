@@ -1,0 +1,21 @@
+
+Clarity: Begin with simple, straightforward instructions, progressively refining complexity based on outcomes. Ensure that prompts are unambiguous, directing the model towards the desired output with precision.
+
+Organization: Structure prompts logically, employing explicit commands such as "Write," "Summarize," "Translate," etc., to guide the model clearly. Break complex tasks into manageable subtasks, using prompt chaining to handle each component sequentially, thereby simplifying the overall process.
+
+Succinctness: Be concise yet descriptive in your prompts to avoid overloading the model with unnecessary information. This approach ensures efficiency and directness in obtaining desired outcomes.
+
+Transparency: Utilize examples within prompts to illustrate expected formats or outcomes, enhancing understanding through demonstration. When complex reasoning is required, employ Chain-of-Thought (CoT) prompting, encouraging the model to outline intermediate reasoning steps, thus making its thought process transparent.
+
+Adaptability: Customize prompts according to the specific context or domain, leveraging any available domain-specific knowledge. Incorporate feedback loops, allowing for prompt refinement based on model performance and user feedback, ensuring continuous improvement.
+
+Advanced Techniques
+Tree of Thoughts (ToT): Adopt a structured approach for tasks requiring exploration or strategic lookahead, facilitating systematic problem-solving.
+Retrieval Augmented Generation (RAG): Enhance responses with external knowledge for more informed and accurate answers.
+Automatic Reasoning and Tool Use (ART): Integrate external tools or data sources strategically within the reasoning process for tasks beyond the model's native capabilities.
+Multimodal CoT: Apply CoT in multimodal contexts, incorporating images, videos, or other data types for comprehensive reasoning.
+Graph Prompting: Utilize graph structures for complex relational and analytical tasks, enabling nuanced analysis and insights.
+Application and Adaptation
+Tailor prompts to task-specific requirements, balancing detail, complexity, and instructional clarity based on model capabilities and task needs.
+Engage in iterative refinement, leveraging model outputs and user interactions to fine-tune prompts for optimal clarity, specificity, and alignment with objectives.
+Harness user feedback and empirical evidence to identify effective prompting strategies across various applications, continually adapting prompts to enhance effectiveness and relevance.
