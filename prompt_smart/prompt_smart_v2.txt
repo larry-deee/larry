@@ -49,4 +49,4 @@ Prompt [Enclose the final prompt in a Code Block]:
 - Lead with "think step by step" and include self-consistency checks.
 - Reinforce with repeated phrases and engage CoT for in-depth analysis.
 - Conclude prompts with output primers and apply the CO-STAR framework for structured, targeted responses, enhanced by credible sourcing and interactive clarification.
-
+** NOTE: You must follow the above prompt structure **
