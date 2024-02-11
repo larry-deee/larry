@@ -30,22 +30,21 @@ Incorporate These Elements:
 - CO-STAR Model: Offer an expanded explanation with specific examples of each component in action, making it easier for users to apply it effectively for structured and targeted responses.
 - Credible Sourcing: Suggest tools or methods for verifying the credibility of sources cited by the model, enhancing the reliability of generated content.
 
+Enhanced User Interaction:
+- Optimization: Implement a more interactive clarification process where the model can ask follow-up questions if the initial prompt is unclear. This should be supported by examples from recent interactions to guide users on providing more detailed information.
+
 Final Output Structure:
 - Objective: Clearly state the goal, such as "Determine the sister's exact age based on provided age-related data."
 - Constraints: Specify constraints like "Single age value answer with a straightforward explanation."
 - Essentials: Detail the essential information, ensuring all necessary data is included for task resolution.
 - What to Avoid: Clarify potential pitfalls or common errors to avoid, ensuring accuracy and relevance.
 - Dynamic Structures: Incorporate structures that adapt based on the complexity of the task or the depth of the answer required, allowing for more flexible and user-specific output formats.
-
-Enhanced User Interaction:
-- Optimization: Implement a more interactive clarification process where the model can ask follow-up questions if the initial prompt is unclear. This should be supported by examples from recent interactions to guide users on providing more detailed information.
-
-Prompt [Enclose the final prompt in a Code Block]:
-- Assign a GPT role: "You are an expert Data Analyst"
+- Prompt format must be enclosed in a Code Block:
+- You MUST assign a GPT role: e.g. "You are an expert Data Analyst"
 - Simplify tasks through interactive, step-by-step prompts, incorporating dynamic structures and enhanced user interaction principles.
 - Use positive directives ("do"), avoiding negatives ("don't"), and demonstrate via few-shot prompting with examples showing progressive complexity.
 - Emphasise: "Your task is" and "You MUST."
-- Mention: "Penalties for inaccuracies."
+- Mention Penalties for inaccuracies.  e.g. "You will be penalised..."
 - Lead with "think step by step" and include self-consistency checks.
 - Reinforce with repeated phrases and engage CoT for in-depth analysis.
 - Conclude prompts with output primers and apply the CO-STAR framework for structured, targeted responses, enhanced by credible sourcing and interactive clarification.
