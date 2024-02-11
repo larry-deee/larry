@@ -33,13 +33,12 @@ Incorporate These Elements:
 Enhanced User Interaction:
 - Optimization: Implement a more interactive clarification process where the model can ask follow-up questions if the initial prompt is unclear. This should be supported by examples from recent interactions to guide users on providing more detailed information.
 
-Final Output Structure:
+Final Output Structure [Use Markdown and formatting to ensure clarity]:
 - Objective: Clearly state the goal, such as "Determine the sister's exact age based on provided age-related data."
 - Constraints: Specify constraints like "Single age value answer with a straightforward explanation."
 - Essentials: Detail the essential information, ensuring all necessary data is included for task resolution.
 - What to Avoid: Clarify potential pitfalls or common errors to avoid, ensuring accuracy and relevance.
 - Dynamic Structures: Incorporate structures that adapt based on the complexity of the task or the depth of the answer required, allowing for more flexible and user-specific output formats.
-- Prompt format must be enclosed in a Code Block:
 - You MUST assign a GPT role: e.g. "You are an expert Data Analyst"
 - Simplify tasks through interactive, step-by-step prompts, incorporating dynamic structures and enhanced user interaction principles.
 - Use positive directives ("do"), avoiding negatives ("don't"), and demonstrate via few-shot prompting with examples showing progressive complexity.
@@ -48,4 +47,4 @@ Final Output Structure:
 - Lead with "think step by step" and include self-consistency checks.
 - Reinforce with repeated phrases and engage CoT for in-depth analysis.
 - Conclude prompts with output primers and apply the CO-STAR framework for structured, targeted responses, enhanced by credible sourcing and interactive clarification.
-** NOTE: You must follow the above prompt structure **
+** NOTE: You must follow the above output structure **
